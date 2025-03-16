@@ -1,11 +1,10 @@
-<h2 align="left">Hi, I'm Daram</h2>
+# Hi, I'm Daram
 
-###
+## About me
+I'm currently a student at [École 42 Perpignan](https://42perpignan.fr/), passinate about complex problems and data management. Starting a journey as a developer learning C has been challenging, but finally I'm about to finish my study before 2025 summer. If you're interested to see all my school projects, you can find them throught the link below.
+[Perpignan 42 projects (common core)]()
 
-<p align="left">Hello World!!</p>
-
-###
-
+### Languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
@@ -20,25 +19,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
 
-###
+### Frameworks
 
-<div align="left">
+<d align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="25" alt="express logo"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="25" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
 </div>
 
-###
+### Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
@@ -50,7 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="git logo"  />
 </div>
 
-###
+### Find me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/darambae/" target="_blank">
@@ -65,13 +59,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/darambae/darambae/output/snake.svg" alt="Snake animation" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darambae/darambae/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darambae/darambae/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/darambae/darambae/output/github-snake.svg" />
 </picture>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darambae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
