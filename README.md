@@ -1,4 +1,5 @@
-# Hi, I'm Daram
+# Hi, I'm Daram :airplane:🧳
+
 
 I'm currently a student at École 42 Perpignan, deeply passionate about tackling complex problems and mastering data management. My journey into development began with C programming, which was both a challenge and a rewarding experience. Now, as I approach the completion of my studies before summer 2025, I'm excited to apply my skills to real-world projects.
 
