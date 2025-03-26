@@ -1,15 +1,15 @@
 # Hi, I'm Daram :airplane:🧳
 
 
-I'm currently a student at École 42 Perpignan, deeply passionate about tackling complex problems and mastering data management. My journey into development began with C programming, which was both a challenge and a rewarding experience. Now, as I approach the completion of my studies before summer 2025, I'm excited to apply my skills to real-world projects.
+I'm currently a student at École 42 Perpignan, passionate about problem-solving and mastering data management. I have been developing various projects while learning programming languages and technologies such as C, Shell, C++, Docker, and Python. Now, as I approach the completion of my studies before summer 2025, I'm excited to apply my skills to real-world projects.
 
 If you're curious about my academic journey and projects, feel free to explore them through the table below. And constructive feedbacks are always welcome!
 
 ---
 
-🇫🇷 En ce moment, je suis étudiante à École 42 Perpignan, profondément passionnée par la résolution de problèmes complexes et la gestion des données. Mon parcours en développement a commencé avec la programmation en C, une expérience à la fois difficile et enrichissante. Aujourd’hui, alors que j’approche de la fin de mes études avant l’été 2025, je suis ravie d’appliquer mes compétences à des projets du monde professionnel.
+🇫🇷 Actuellement étudiante à École 42 Perpignan, je suis passionnée par la résolution de problèmes et la gestion des données. J'ai développé divers projets tout en apprenant des langages de programmation et des technologies tels que le C, le Shell, le C++, Docker et Python. Aujourd’hui, alors que j’approche de la fin de mes études, je suis impatiente de pouvoir utiliser mes compétences sur des projets du monde professionnel.
 
-Si vous êtes curieux de mon parcours académique et de mes projets, n’hésitez pas à les explorer via le tableau ci-dessous. Les retours constructifs sont toujours les bienvenus !
+Si vous êtes curieux des projets fait à l'école 42, n’hésitez pas à les explorer via le tableau ci-dessous. Les retours constructifs sont toujours les bienvenus !
 
 ---
 
