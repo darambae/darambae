@@ -35,7 +35,7 @@ Si vous êtes curieux des projets fait à l'école 42, n’hésitez pas à les e
 | **Libft**        | Custom C library               | [Libft](https://github.com/darambae/libft) |
 
 ***
-## Skils
+## Skills
 
 ### Languages
 <div align="left">
